@@ -47,4 +47,15 @@ The model was successfully trained to detect cataracts from eye images and achie
 - This project is developed for academic and learning purposes
 - The dataset is private and used only for experimentation
 
+## Screenshots
+
+### Dataset Structure
+![Dataset Structure](screenshots/dataset_structure.png)
+
+### Training Output
+![Training Output](screenshots/training_output.png)
+
+### Results
+![Results](screenshots/results.png)
+
 
